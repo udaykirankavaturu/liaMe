@@ -1,0 +1,9 @@
+fileignoreconfig:
+- filename: keystone/auth.ts
+  checksum: 750c0d2e879fb94183175e954920436dc37597e870a62a5ee0d4346e28221f65
+version: ""
+
+fileignoreconfig:
+- filename: keystone/auth.ts
+  checksum: 750c0d2e879fb94183175e954920436dc37597e870a62a5ee0d4346e28221f65
+version: ""
