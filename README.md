@@ -1,1 +1,1 @@
-# liaMe
+# liaMe - email client
